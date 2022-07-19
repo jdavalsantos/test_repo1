@@ -1,0 +1,7 @@
+More resources:
+https://training.github.com/downloads/github-git-cheat-sheet.pdf
+https://learngitbranching.js.org/
+https://github.com/Gazler/githug
+
+Command line:
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
